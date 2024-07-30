@@ -4,20 +4,16 @@
     padding: 0;
     margin: 0;
     font-family: "Poppins", sans-serif;
-    box-sizing: border-box;
-    
+    box-sizing: border-box; 
 }
 
 body {
     display: flex;
-    justify-content: right;
-    padding-right: 100px;
-    padding-top: 10px;
-    padding-bottom: 10px;
     -ms-align-items: center;
     align-items: center;
     min-height: 100vh;
     background-color: #0e1538;
+    justify-content: center;
 }
 
 .box {
